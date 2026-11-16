@@ -1,0 +1,7 @@
+python3 -m venv traffic_lens_venv
+
+source traffic_lens_venv/bin/activate
+
+pip install ...
+
+deactivate
