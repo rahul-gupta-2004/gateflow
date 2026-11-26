@@ -1,4 +1,4 @@
-# Gateway - Automatic Car Parking Handling Agent
+# Gateflow - Automatic Car Parking Handling Agent
 
 GateFlow is a Streamlit and SQLite3 application for automatic number plate detection, vehicle entry/exit tracking, hourly billing, vehicle records, and rate management.
 
