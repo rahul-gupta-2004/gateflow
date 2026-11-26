@@ -1,6 +1,6 @@
-python3 -m venv traffic_lens_venv
+python3 -m venv gateflow_venv
 
-source traffic_lens_venv/bin/activate
+source gateflow_venv/bin/activate
 
 pip install ...
 

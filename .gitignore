@@ -1,9 +1,10 @@
-# Virtual environment
-traffic_lens_venv/
-
-# Python bytecode cache
+# virtual environment and python caches
+gateflow_venv/
 __pycache__/
 *.py[cod]
+*.egg-info/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+# temporary runtime outputs and local sqlite file
+output/temp_*.jpg
+output/number_plate_results.csv
+db/gateflow.db
